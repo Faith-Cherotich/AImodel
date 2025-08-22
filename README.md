@@ -1,2 +1,3 @@
 # AImodel
-This is day 1 of AI
+This is week 1 Assignment on Linear Regression.
+
